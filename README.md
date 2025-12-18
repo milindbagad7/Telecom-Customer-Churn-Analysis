@@ -113,7 +113,7 @@ An interactive Power BI dashboard was created to:
 Bachelor of Computer Applications (BCA)  
 Aspiring Data Analyst / Data Scientist  
 LinkedIn: https://www.linkedin.com/in/milind-bagad-82786a224  
-GitHub: https://github.com/Milind5    
+GitHub: https://github.com/milindbagad7
 
 ---
 
